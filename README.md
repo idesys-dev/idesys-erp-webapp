@@ -27,6 +27,7 @@ Options chosen:
 $ yarn install
 
 # serve with hot reload at localhost:3000
+$ export BASE_API_URL=http://127.0.0.1:3001/
 $ yarn dev
 
 # build for production and launch server
