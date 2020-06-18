@@ -18,13 +18,13 @@
     "dotenv": "^8.2.0",
     "fs": "^0.0.1-security",
     "nuxt": "^2.0.0",
-    "vue-plugin-axios": "^1.0.14"
+    "vue-plugin-axios": "^1.0.14",
+    "@nuxtjs/vuetify": "^1.0.0",
   },
   "devDependencies": {
     "@nuxt/typescript-build": "^0.6.0",
     "@nuxtjs/eslint-config-typescript": "^1.0.0",
     "@nuxtjs/eslint-module": "^1.0.0",
-    "@nuxtjs/vuetify": "^1.0.0",
     "@vue/test-utils": "^1.0.0-beta.27",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^24.1.0",
